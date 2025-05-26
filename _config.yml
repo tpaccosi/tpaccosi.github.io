@@ -23,13 +23,13 @@ repository               : "tpaccosi/tpaccosi.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "TPaccosi"
+  pronouns         : "she/her"  
+  bio              : ""
+  location         : "Amsterdam"
+  employer         : "KNAW"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "teresa.paccosi@dh.huc.knaw.nl" 
 
   # Academic websites
   academia         : # URL
