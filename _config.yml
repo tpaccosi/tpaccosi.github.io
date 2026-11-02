@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Teresa Paccosi -- Academic Site"
+title                    : "Teresa Paccosi"
 title_separator          : "-"
-name                     : &name "Teresa"
+name                     : &name "Teresa Paccosi"
 description              : &description "PostDoc@KNAW"
 url                      : https://tpaccosi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,11 +23,11 @@ repository               : "tpaccosi/tpaccosi.github.io"
 author:
   # Biographic information
   avatar           : "IMG_4107.jpg"
-  name             : "Teresa_Paccosi"
+  name             : "Teresa Paccosi"
   pronouns         : "she/her"  
-  bio              : ""
+  bio              : "Postdoctoral researcher in computational linguistics and digital humanities"
   location         : "Amsterdam"
-  employer         : "KNAW"
+  employer         : "KNAW Humanities Cluster"
   uri              : # URL
   email            : "teresa.paccosi@dh.huc.knaw.nl" 
 
@@ -84,6 +84,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  workshops:
+    title: 'Workshop Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
