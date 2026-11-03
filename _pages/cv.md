@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV (PDF)]({{ base_path }}/files/cv.pdf)
+<a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV (PDF)</a>
 
-<iframe src="{{ base_path }}/files/cv.pdf" width="100%" height="900px" style="border:none;"></iframe>
+<iframe src="{{ base_path }}/files/cv.pdf" width="100%" height="1000px" style="border:none;"></iframe>
