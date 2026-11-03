@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Teresa Paccosi. I am a postdoctoral researcher at the [KNAW Humanities Cluster](https://huc.knaw.nl/) DHLab in Amsterdam, where I work on the ERC **Trifecta** project on computational approaches to food history. I am also Associate Editor of the *Journal of Open Humanities Data* and an editor of the *DHBenelux Journal*.
+My name is Teresa Paccosi. I am a postdoctoral researcher at the [KNAW Humanities Cluster](https://huc.knaw.nl/) DHLab in Amsterdam, where I work on the ERC **Trifecta** project on computational approaches to food history. I am also Associate Editor of the *Journal of Open Humanities Data* and editor of the *DHBenelux Journal*.
 
-My research sits between **computational linguistics** and the **digital humanities**. I work on information extraction for the humanities and on evaluating how well models perform on historical texts. I am especially interested in how people talk about the senses: how smell and taste are described in texts, how to model those descriptions with FrameNet-inspired annotation, and how they have changed over time. More recently I have been working on the language of **food and culinary history**.
+My research sits between **computational linguistics** and the **digital humanities**. I work on information extraction for the humanities and on evaluating how well models perform on historical texts. During my PhD, I investigated how people talk about the senses: how smell and taste are described in texts, how to model those descriptions, and how they have changed over time. More recently I have been working on the language of **food and culinary history**. I am particularly interested in NLP methodologies for historical texts, semantic change detection, and text mining.
 
 I did my PhD in Cognitive Science (2021–2024) at the University of Trento and the Digital Humanities group of [Fondazione Bruno Kessler](https://dh.fbk.eu/), as part of the H2020 project ODEUROPA, with a visiting period at King's College London. Before that I studied Linguistics at the University of Siena and Foreign Languages at the University of Florence.
 
