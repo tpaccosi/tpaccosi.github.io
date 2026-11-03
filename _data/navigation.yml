@@ -4,11 +4,11 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Talks"
+    url: /talks/
+
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "CV"
     url: /cv/
-
-  # Uncomment these once there is content in _talks/ or _teaching/
-  # - title: "Talks"
-  #   url: /talks/
-  # - title: "Teaching"
-  #   url: /teaching/
