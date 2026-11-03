@@ -12,7 +12,7 @@ redirect_from:
 Current position
 ======
 * Postdoctoral Researcher, KNAW Humanities Cluster, Amsterdam
-  * Trofecta project
+  * ERC Trifecta project
 
 Education
 ======
@@ -25,7 +25,8 @@ Research interests
 * Semantic annotation and frame semantics
 * Information extraction from historical documents
 * Diachronic language change
-* Language resources for Italian
+* Semantic Change Detection
+* NLP for historical texts
 
 Publications
 ======
